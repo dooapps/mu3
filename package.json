@@ -1,0 +1,25 @@
+{
+  "name": "mu3",
+  "version": "0.0.5",
+  "description": "render mu2 mustache in express",
+  "main": "mu2Express.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dooapps/mu3.git"
+  },
+  "keywords": [
+    "express",
+    "mustache"
+  ],
+  "author": "Marco Miller",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dooapps/mu3/issues"
+  },
+  "homepage": "https://github.com/dooapps/mu3#readme",
+  "dependencies": {},
+  "devDependencies": {}
+}
